@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Julien Melissas -- Developer -- @JulienMelissas
+    Corey Bullman -- Design + Branding -- @CoreyBullman
+
+# TECHNOLOGY COLOPHON
+
+    HTML5BP
